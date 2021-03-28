@@ -1,2 +1,3 @@
-# A-B-testing_final-project_Udacity
-This repository contains my solution to the final project to the A/B testing course given by Google through Udacity. This solution uses Python and Jupyter Notebooks exclusively.
+# Final Project for A/B testing course by Google
+
+Firstly, please visit the [course](https://www.udacity.com/course/ab-testing--ud257) before proceeding. This repository pertains specifically to the final project. The solution is exclusively provided using Python and Jupyter Notebooks.
